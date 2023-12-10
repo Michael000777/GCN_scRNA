@@ -1,5 +1,5 @@
 # Breast Tissue Metastaticity Prediction using Spatial Transcriptomic and Gene Expression
-Monica Bonilla, Douglas Maldonado-Torres, **Michael Akpabey**, Sarah Kang, Jenni Liu, and Jan Rosa
+**Michael Akpabey**, Monica Bonilla, Douglas Maldonado-Torres, Sarah Kang, Jenni Liu, and Jan Rosa
 
 **Abstract**
 This research project aims to address the challenges associated with predicting breast cancer metastatic potential
@@ -17,4 +17,4 @@ external datasets and exploring pooling modalities for improved generalizability
 
 Key words: Graph Convolution Networks (GCN), Spatial Transcriptomics, Metastasis, Breast Cancer
 
-Repo will be update with final code and write up soon.
+
